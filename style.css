@@ -1,0 +1,114 @@
+.navmargin {
+    margin-left: 800px;
+}
+.yellow {
+    color: yellow;
+}
+.logomargin {
+    margin-left:50px;
+}
+.MColor {
+    background-color:hsla(261, 74%, 9%, 0.966) ;
+}
+.Para1 {
+    margin-left: 35px;
+    margin-top: 70px;
+    color: white;
+}
+.button1 {
+    margin-top: 10px;
+    padding: 10px;
+    color: black;
+}
+.flex1 {
+    display: flex;
+    justify-content:space-around;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 30px;
+}
+.parent {
+    border: 10px solid orange;
+    border-radius: 25px;
+    width: fit-content;
+    margin-left: 200px;
+    margin-top: 150px;
+}
+.son {
+    position: relative;
+    top: -20px;
+    right: -30px;
+}
+.para2 {
+    display :flex ;
+    justify-content: space-between;
+    color: white;
+    background-color: black;   
+}
+.paddingspace {
+    margin-top: 100px;
+}
+.colorbutton {
+    background-color: yellow;
+    border-radius: 5px solid black;
+    border-radius: 5px;
+    color: black;
+}
+.para3 {
+    margin-left: 200px;
+    margin-top: 100px;
+    color: white;
+}
+.space {
+    margin-top: 50px;
+}
+.flex2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 200px;
+    margin-top: 50px;
+    color: white;
+    border: 10px;
+    margin-right: 100px;
+}
+.flex3 {
+    margin-top: 200px;
+    margin-right: 130px;
+}
+.para4 {
+    margin-left: 200px;
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+}
+.imageposition {
+    display: flex;
+    margin-left: 200px;
+    justify-content: space-between;
+    gap: 20px;
+    margin-top: 100px;
+} 
+.bcolor {
+    background-color: black;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.spaceimage {
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-right: 250px;
+}
+.spaceimage>img{
+    margin: 10px;
+}
+.bcolor2 {
+    background-color: black;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
